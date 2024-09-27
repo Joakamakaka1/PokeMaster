@@ -4,7 +4,7 @@
 
 **Nombre:** PokeMaster
 
-**Descripción:** PokéMaster será una aplicación web interactiva y accesible que permitirá a los usuarios crear equipos personalizados de Pokémon de manera intuitiva. A través de una interfaz amigable, los usuarios podrán seleccionar Pokémon específicos, personalizar sus ataques, habilidades y objetos, lo que les permitirá optimizar sus estrategias de juego y disfrutar de una experiencia más enriquecedora.
+**Descripción:** PokéMaster será una aplicación web interactiva y accesible que permitirá a los usuarios crear equipos personalizados de Pokémon de manera intuitiva. A través de una interfaz amigable, los usuarios podrán seleccionar Pokémon específicos, personalizar sus ataques, habilidades y objetos.
 
 **Propósito:** La aplicación tiene como objetivo proporcionar una herramienta completa para los entusiastas de Pokémon. No solo permitirá la creación de equipos personalizados, sino que también ofrecerá información detallada sobre cada Pokémon, incluyendo estadísticas, tipos y movimientos. Esto facilitará que tanto jugadores casuales como competitivos puedan tomar decisiones informadas al formar sus equipos.
 
@@ -18,7 +18,7 @@
 |--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Jugadores de Pokémon           | Desde principiantes que desean aprender sobre el juego hasta jugadores avanzados que buscan personalizar y optimizar sus equipos para competiciones.                    |
 | Desarrolladores y Entusiastas  | Personas interesadas en el desarrollo de aplicaciones web que consumen APIs externas. La aplicación ofrecerá un entorno de aprendizaje para aquellos que quieran experimentar con la PokéAPI. |
-| Educadores y Estudiantes       | Usuarios que utilizarán la aplicación para aprender sobre estructuras de datos, desarrollo web y el consumo de APIs. Los educadores podrán usar PokeMaster como herramienta didáctica. |
+| Educadores y Estudiantes       | Usuarios que utilizarán la aplicación para aprender sobre estructuras de datos, desarrollo web y el consumo de APIs. |
 
 ### Relevancia:
 La aplicación será especialmente valiosa para los jugadores que desean una herramienta precisa y fácil de usar para personalizar sus equipos de Pokémon. También servirá como un recurso para desarrolladores que buscan explorar las capacidades de la PokéAPI y aplicar sus conocimientos en un proyecto real.
@@ -40,7 +40,7 @@ La aplicación será especialmente valiosa para los jugadores que desean una her
 
 - **Personalización Avanzada:** A diferencia de las aplicaciones existentes, PokeMaster permitirá a los usuarios seleccionar ataques, habilidades y objetos específicos para cada Pokémon en su equipo, dándoles control total sobre su estrategia.
   
-- **Diseño Moderno y Responsive:** La aplicación se diseñará con un enfoque en la usabilidad y la estética, asegurando que sea atractiva y funcional en dispositivos móviles y de escritorio. Esto incluirá una interfaz intuitiva que guiará a los usuarios a través de las diferentes funcionalidades sin complicaciones.
+- **Diseño Moderno y Responsivo:** La aplicación se diseñará con un enfoque en la usabilidad y la estética, asegurando que sea atractiva y funcional en dispositivos móviles y de escritorio. Esto incluirá una interfaz intuitiva que guiará a los usuarios a través de las diferentes funcionalidades sin complicaciones.
 
 ---
 
@@ -60,7 +60,7 @@ La aplicación será especialmente valiosa para los jugadores que desean una her
 
 ### Modelos de Ejecución:
 
-- **Cliente:** Se utilizará TypeScript para manejar la interactividad en el navegador, permitiendo funciones como búsqueda de Pokémon y personalización de equipos. TypeScript ayudará a mantener el código limpio y escalable.
+- **Cliente:** Se utilizará TypeScript para manejar la interactividad en el navegador, permitiendo funciones como búsqueda de Pokémon y personalización de equipos. 
 
 - **Servidor:** La aplicación consumirá una API REST conocida como “PokeApi” para acceder a todos los Pokémon, ataques y habilidades. Esto garantizará que la información sea precisa y esté actualizada.
 
@@ -88,7 +88,7 @@ La aplicación será especialmente valiosa para los jugadores que desean una her
 
 | Herramienta          | Funciones                                                                                                                                               |
 |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Visual Studio Code    | Este será el editor de código principal, gracias a su integración con Git y a las extensiones útiles que ofrece para trabajar con JavaScript y TypeScript. |
+| Visual Studio Code    | Este será el editor de código principal. |
 | Postman              | Se usará para probar las llamadas a la API, facilitando la depuración y el desarrollo.                                                               |
 | GitHub               | La plataforma se utilizará para control de versiones y colaboración entre los desarrolladores, asegurando un flujo de trabajo organizado.               |
 
@@ -146,7 +146,7 @@ La aplicación será especialmente valiosa para los jugadores que desean una her
 ### Herramientas de Programación
 
 - **Visual Studio Code:**
-  - **Funciones:** Este editor de código facilitará la edición, depuración y gestión de proyectos, gracias a su integración con Git y la disponibilidad de extensiones específicas para JavaScript y TypeScript.
+  - **Funciones:** Este editor de código facilitará la edición, depuración y gestión de proyectos, gracias a la disponibilidad de extensiones específicas para JavaScript y TypeScript.
 
 - **GitHub:**
   - **Funciones:** Se utilizará para el control de versiones, facilitando la colaboración entre desarrolladores y la gestión eficiente del código fuente.
