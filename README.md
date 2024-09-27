@@ -14,11 +14,11 @@
 
 ### Audiencia:
 
-- **Jugadores de Pokémon:** Desde principiantes que desean aprender sobre el juego hasta jugadores avanzados que buscan personalizar y optimizar sus equipos para competiciones. La aplicación está diseñada para satisfacer las necesidades de todos los niveles de habilidad, proporcionando información útil y opciones de personalización.
-  
-- **Desarrolladores y Entusiastas de la API:** Personas interesadas en el desarrollo de aplicaciones web que consumen APIs externas. La aplicación ofrecerá un entorno de aprendizaje para aquellos que quieran experimentar con la PokéAPI, desarrollando habilidades en el consumo de APIs y en la creación de aplicaciones interactivas.
-
-- **Educadores y Estudiantes:** Usuarios que utilizarán la aplicación para aprender sobre estructuras de datos, desarrollo web y el consumo de APIs. Los educadores podrán usar PokeMaster como herramienta didáctica en el aula, promoviendo la enseñanza práctica de conceptos técnicos.
+| Tipo de Usuario                | Descripción                                                                                                                                                             |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Jugadores de Pokémon           | Desde principiantes que desean aprender sobre el juego hasta jugadores avanzados que buscan personalizar y optimizar sus equipos para competiciones.                    |
+| Desarrolladores y Entusiastas  | Personas interesadas en el desarrollo de aplicaciones web que consumen APIs externas. La aplicación ofrecerá un entorno de aprendizaje para aquellos que quieran experimentar con la PokéAPI. |
+| Educadores y Estudiantes       | Usuarios que utilizarán la aplicación para aprender sobre estructuras de datos, desarrollo web y el consumo de APIs. Los educadores podrán usar PokeMaster como herramienta didáctica. |
 
 ### Relevancia:
 La aplicación será especialmente valiosa para los jugadores que desean una herramienta precisa y fácil de usar para personalizar sus equipos de Pokémon. También servirá como un recurso para desarrolladores que buscan explorar las capacidades de la PokéAPI y aplicar sus conocimientos en un proyecto real.
@@ -29,33 +29,30 @@ La aplicación será especialmente valiosa para los jugadores que desean una her
 
 ### Aplicaciones Similares:
 
-- **Pokédex (móviles):** Estas aplicaciones ofrecen información básica sobre Pokémon, incluyendo estadísticas y tipos. Sin embargo, carecen de opciones avanzadas para personalizar equipos, lo que limita la experiencia del usuario.
-  
-- **Pokémon Database (web):** Un sitio web extenso con información detallada sobre Pokémon, pero no permite a los usuarios crear o personalizar sus equipos, lo que hace que la experiencia sea menos interactiva.
-
-- **Serebii.net (web):** Ofrece una base de datos amplia y valiosa para los fans de Pokémon, pero no incluye herramientas para la personalización y la generación de equipos, lo que reduce su utilidad para jugadores competitivos.
-
-- **Showdown (web y móvil):** Un simulador de batallas que permite a los usuarios crear equipos con detalles profundos. Aunque es muy completo, puede resultar complejo para los nuevos jugadores y no ofrece una interfaz de usuario tan accesible como la que proponemos.
+| Aplicación         | Descripción                                                                                                          | Limitaciones                                                                                                  |
+|--------------------|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Pokédex (móviles)  | Ofrece información básica sobre Pokémon, incluyendo estadísticas y tipos.                                          | No permite opciones avanzadas para personalizar equipos.                                                     |
+| Pokémon Database    | Un sitio web extenso con información detallada sobre Pokémon.                                                     | No permite a los usuarios crear o personalizar sus equipos.                                                  |
+| Serebii.net        | Base de datos amplia para los fans de Pokémon.                                                                     | Carece de herramientas para la personalización y generación de equipos.                                      |
+| Showdown (web y móvil) | Simulador de batallas que permite crear equipos con detalles profundos.                                          | Puede resultar complejo para nuevos jugadores y no tiene una interfaz tan accesible como la de PokeMaster. |
 
 ### Oportunidades de Diferenciación:
 
 - **Personalización Avanzada:** A diferencia de las aplicaciones existentes, PokeMaster permitirá a los usuarios seleccionar ataques, habilidades y objetos específicos para cada Pokémon en su equipo, dándoles control total sobre su estrategia.
-
+  
 - **Diseño Moderno y Responsive:** La aplicación se diseñará con un enfoque en la usabilidad y la estética, asegurando que sea atractiva y funcional en dispositivos móviles y de escritorio. Esto incluirá una interfaz intuitiva que guiará a los usuarios a través de las diferentes funcionalidades sin complicaciones.
 
 ---
 
 ## Funcionalidades Clave
 
-- **Búsqueda de Pokémon:** Los usuarios podrán buscar fácilmente Pokémon por nombre, facilitando la navegación y la selección. Esta función estará optimizada para ofrecer resultados instantáneos.
-
-- **Detalles del Pokémon:** La aplicación mostrará información exhaustiva sobre cada Pokémon, incluyendo habilidades, tipos, estadísticas y movimientos. Esto permitirá a los usuarios tomar decisiones informadas al construir sus equipos.
-
-- **Creación de Equipos:** Los usuarios podrán crear equipos de hasta seis Pokémon, eligiendo ataques, habilidades y objetos específicos para cada uno. Esto fomentará la experimentación y la creación de estrategias únicas.
-
-- **Generador de Equipos:** La aplicación incluirá una funcionalidad que recomendará equipos basados en las preferencias del usuario, sugiriendo combinaciones óptimas que maximicen las posibilidades de éxito en batallas.
-
-- **Interfaz de Usuario Intuitiva:** Se desarrollará un diseño claro y fácil de usar que asegurará una experiencia agradable. Esto incluirá instrucciones y tutoriales que guiarán a los nuevos usuarios en su primer uso.
+| Funcionalidad                  | Descripción                                                                                                                                                 |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Búsqueda de Pokémon            | Los usuarios podrán buscar fácilmente Pokémon por nombre, facilitando la navegación y la selección. Esta función estará optimizada para ofrecer resultados instantáneos.  |
+| Detalles del Pokémon           | La aplicación mostrará información exhaustiva sobre cada Pokémon, incluyendo habilidades, tipos, estadísticas y movimientos.                                |
+| Creación de Equipos            | Los usuarios podrán crear equipos de hasta seis Pokémon, eligiendo ataques, habilidades y objetos específicos para cada uno.                                  |
+| Generador de Equipos           | La aplicación incluirá una funcionalidad que recomendará equipos basados en las preferencias del usuario, sugiriendo combinaciones óptimas.                    |
+| Interfaz de Usuario Intuitiva  | Se desarrollará un diseño claro y fácil de usar que asegurará una experiencia agradable. Incluirá instrucciones y tutoriales que guiarán a los nuevos usuarios. |
 
 ---
 
@@ -81,19 +78,19 @@ La aplicación será especialmente valiosa para los jugadores que desean una her
 
 ### Integración de Lenguajes de Marcas con Lenguajes de Programación:
 
-- **HTML:** Se empleará para crear la estructura básica de la página web, asegurando que todos los elementos estén correctamente organizados.
-
-- **CSS:** Se utilizará para el estilo y diseño visual de la aplicación, creando una experiencia atractiva y coherente para el usuario.
-
-- **TypeScript:** Aportará la funcionalidad interactiva, permitiendo manipular el DOM y gestionar eventos del usuario de manera eficiente.
+| Lenguaje      | Uso                                                                                                                                             |
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| HTML          | Se empleará para crear la estructura básica de la página web, asegurando que todos los elementos estén correctamente organizados.                |
+| CSS           | Se utilizará para el estilo y diseño visual de la aplicación, creando una experiencia atractiva y coherente para el usuario.                    |
+| TypeScript    | Aportará la funcionalidad interactiva, permitiendo manipular el DOM y gestionar eventos del usuario de manera eficiente.                         |
 
 ### Herramientas de Programación:
 
-- **Visual Studio Code:** Este será el editor de código principal, gracias a su integración con Git y a las extensiones útiles que ofrece para trabajar con JavaScript y TypeScript.
-
-- **Postman:** Se usará para probar las llamadas a la API, facilitando la depuración y el desarrollo.
-
-- **GitHub:** La plataforma se utilizará para control de versiones y colaboración entre los desarrolladores, asegurando un flujo de trabajo organizado.
+| Herramienta          | Funciones                                                                                                                                               |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Visual Studio Code    | Este será el editor de código principal, gracias a su integración con Git y a las extensiones útiles que ofrece para trabajar con JavaScript y TypeScript. |
+| Postman              | Se usará para probar las llamadas a la API, facilitando la depuración y el desarrollo.                                                               |
+| GitHub               | La plataforma se utilizará para control de versiones y colaboración entre los desarrolladores, asegurando un flujo de trabajo organizado.               |
 
 ---
 
